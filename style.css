@@ -1,0 +1,14 @@
+.navigation {
+  background-color: black;
+}
+.navigation__link {
+  color: whitesmoke;
+  margin-right: 20px;
+  padding: 16px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.navigation__link--categories {
+  background-color: orange;
+}
