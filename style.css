@@ -1,5 +1,14 @@
-.navigation {
+
+.navigation{
   background-color: black;
+  
+}
+.navigation__structure {
+  
+}
+.navigation__position{
+  background-color:black;
+  display: inline-block;
 }
 .navigation__link {
   color: whitesmoke;
@@ -15,7 +24,6 @@
 }
 
 .icon{
-  
   width: 30px;
   height: auto;
 }
