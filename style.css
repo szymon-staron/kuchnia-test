@@ -18,12 +18,14 @@
   background-color: black;
   display: flex;
 }
+
 .navigation__link {
   color: whitesmoke;
   margin-right: 20px;
   padding: 16px;
   display: inline-block;
   text-decoration: none;
+  
 }
 
 .navigation__link--categories {
@@ -32,9 +34,27 @@
 }
 
 .icon {
-  width: 30px;
-  height: auto;
+  width: auto;
+  height:35px;
 }
 .icon__text {
   color: whitesmoke;
+}
+.navigation__position--border{
+  border-style: ridge;
+  border-top: none;
+border-left: none;
+border-right: none;
+
+}
+.icon__structure{
+  position: absolute;
+  right: 170px;
+border-style: ridge;
+
+border-top: none;
+border-bottom: none;
+border-right: none;
+padding-left: 221px;
+
 }
