@@ -11,4 +11,11 @@
 
 .navigation__link--categories {
   background-color: orange;
+  margin-left: 20px;
+}
+
+.icon{
+  
+  width: 30px;
+  height: auto;
 }
