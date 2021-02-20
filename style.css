@@ -1,14 +1,22 @@
-
-.navigation{
+.logo {
+  width: 150px;
+  height: 80px;
+}
+.search__input {
+  width: 450px;
+  height: 35px;
+}
+.search__button {
+  width: 75px;
+  height: 42px;
+}
+.navigation {
   background-color: black;
-  
 }
-.navigation__structure {
-  
-}
-.navigation__position{
-  background-color:black;
-  display: inline-block;
+
+.navigation__position {
+  background-color: black;
+  display: flex;
 }
 .navigation__link {
   color: whitesmoke;
@@ -23,7 +31,10 @@
   margin-left: 20px;
 }
 
-.icon{
+.icon {
   width: 30px;
   height: auto;
+}
+.icon__text {
+  color: whitesmoke;
 }
